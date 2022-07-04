@@ -4,7 +4,7 @@ import telebot
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 import pyshorteners
 
-bot = telebot.TeleBot(os.getenv('TgBOT_TOKEN'))
+bot = telebot.TeleBot(os.getenv('5484137969:AAFKiyePMyL2ZcUf1YvAI_yCPmppVehX9oo'))
 
 markup = InlineKeyboardMarkup()
 b1 = InlineKeyboardButton('🦧Official Channel🦧',url='t.me/EthiopiansProject')
